@@ -1,3 +1,3 @@
 # plantuml-kubernetes
 
-Host a Plant UML server on k8s.
+Host a [PlantUML](https://www.plantuml.com) server on k8s.
